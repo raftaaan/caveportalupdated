@@ -1,7 +1,7 @@
 <?php    
-require_once 'php/class/config.php';
+// require_once 'php/class/config.php';
 include 'php/functions/function.php';
-
+// conn();
 ?>
 <!DOCTYPE html>
 <html lang="en">
